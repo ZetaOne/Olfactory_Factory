@@ -5,20 +5,11 @@ COMMENT
 : Filename: nas_wustenberg.mod
 : Description: 
 : Author: Subhasis Ray
-: Maintainer: 
+: Maintainer 
 : Created: Wed Dec 13 19:06:03 EST 2017
-: Version: 
+: Version 
 : Last-Updated: Mon Jun 18 14:38:15 2018 (-0400)
-:           By: Subhasis Ray
-: URL: 
-: Doc URL: 
-: Keywords: 
-: Compatibility: 
-: 
-: 
 
-: Commentary: 
-: 
 : NEURON implementation of slow Na+ channel ( NAS ) from Wustenberg
 : DG, Boytcheva M, Grunewald B, Byrne JH, Menzel R, Baxter DA
 
