@@ -2,7 +2,7 @@ TITLE neurorishika_excitatory.mod   Kenyon cells from wustenberg 2004
  
 COMMENT
 
- : Filename: nas_wustenberg.mod
+: Filename: nas_wustenberg.mod
 : Description: 
 : Author: Subhasis Ray
 : Maintainer: 
